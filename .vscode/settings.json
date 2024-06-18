@@ -1,0 +1,6 @@
+{
+    "typst-preview.statusBarIndicator": "full",
+    "typst-preview.fontPaths": [
+        "fonts/"
+    ]
+}

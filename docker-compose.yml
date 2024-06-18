@@ -1,0 +1,10 @@
+services:
+  typst:
+    container_name: "typst"
+    image: ghcr.io/typst/typst:latest
+    tty: true
+    environment:
+      - TYPST_FONT_PATHS=/opt/fonts
+    volumes:
+      - "./fonts/:/opt/fonts"
+      - "./:/root"
