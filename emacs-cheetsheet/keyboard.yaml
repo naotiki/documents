@@ -20,7 +20,7 @@ Kbd:
           - "マーク位置から現在位置までの領域を削除し、バッファに記憶 (Wipe)": C-w
           - "マーク位置から現在位置までの領域をバッファにコピー": M-w
           - "C-k, C-w, M-wでバッファに入れられた内容をペースト": C-y
-          - "マーク位置から現在位置までの短形領域を削除し、バッファに記憶": C-x r k (M-x kill-rectangle)
+          - "マーク位置から現在位置までの矩形(くけい)領域を削除し、バッファに記憶": C-x r k (M-x kill-rectangle)
           - "M-x kill-rectangle で削除した矩形領域をペースト": C-x r y (M-x yank-rectangle)
           - "マーク位置から現在のカーソル行まで縦方向に文字列を挿入": M-x string-insert-rectangle
     - 操作の取り消し:
