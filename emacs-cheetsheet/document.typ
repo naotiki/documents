@@ -1,7 +1,7 @@
 #import "@preview/tablex:0.0.5": *
 
 
-#let mainfont      = "UDEV Gothic 35NF"
+#let mainfont      = "UDEV Gothic 35"
 
 #let color1 = rgb("#6e7b8b")  // LightSteelBlue4
 
@@ -23,7 +23,7 @@
 
 #let mytab(header, e, color1, color2) = {
     tablex(
-        columns: (13fr, 7fr),
+        columns: (13.2fr, 6.8fr),
         rows: (18pt, 15pt),  // first, repeat for rest
         align: left + horizon,
         row-gutter: 0pt,
