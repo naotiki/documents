@@ -2,3 +2,5 @@
 .vscode/
 fonts/*
 !fonts/.gitkeep
+
+*.pdf
