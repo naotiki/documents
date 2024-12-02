@@ -1,0 +1,298 @@
+können:
+  ja: ~できる
+  de: können
+  conjugation:
+    ich: kann
+    du: kannst
+    er/sie/es: kann
+    wir: können
+    ihr: könnt
+    sie: können
+    Sie: können
+  highlight:
+    - ich
+    - du
+    - er/sie/es
+  examples:
+    - ja: "私は毎朝早く起きれます"
+      de: "Ich kann jeden Morgen früh aufstehen."
+    - ja: "アベさんはドイツ語を話せますか？"
+      de: "Kann Frau Abe Deutsch sprechen?"
+    - ja: "はい、彼女はドイツ語を話せます。"
+      de: "Ja, sie kann Deutsch sprechen."
+müssen:
+  ja: ~しなければならない
+  de: müssen
+  conjugation:
+    ich: muss
+    du: musst
+    er/sie/es: muss
+    wir: müssen
+    ihr: müsst
+    sie: müssen
+    Sie: müssen
+  highlight:
+    - ich
+    - du
+    - er/sie/es
+  examples:
+    - ja: "私はスーパーで買い物しなければなりません。"
+      de: "Ich muss im Supermarkt einkaufen."
+dürfen:
+  ja: ~してもよい
+  de: dürfen
+  conjugation:
+    ich: darf
+    du: darfst
+    er/sie/es: darf
+    wir: dürfen
+    ihr: dürft
+    sie: dürfen
+    Sie: dürfen
+  highlight:
+    - ich
+    - du
+    - er/sie/es
+  examples:
+    - ja: "テレビを見てもいいですか？"
+      de: "Darf ich fernsehen?"
+    - ja: "ここでタバコを吸ってはいけませんか？"
+      de: "Darf man hier nicht rauchen?"
+    - ja: "いいえ、誰でもここで吸っていいです。"
+      de: "Doch, man darf hier rauchen."
+wollen:
+  ja: ~するつもりである(強い意志)
+  de: wollen
+  conjugation:
+    ich: will
+    du: willst
+    er/sie/es: will
+    wir: wollen
+    ihr: wollt
+    sie: wollen
+    Sie: wollen
+  highlight:
+    - ich
+    - du
+    - er/sie/es
+  examples:
+    - ja: "私は今日のセミナーに参加するつもりである"
+      de: "Ich will heute am Seminar teilnehmen."
+sollen:
+  ja: ~すべきである
+  de: sollen
+  conjugation:
+    ich: soll
+    du: sollst
+    er/sie/es: soll
+    wir: sollen
+    ihr: sollt
+    sie: sollen
+    Sie: sollen
+  highlight:
+    - ich
+    - er/sie/es
+  examples:
+    - ja: "あなたは今、ドイツ語を学ぶべきだ。"
+      de: "Du sollst jetzt Deutsch lernen."
+mögen:
+  ja: ~したい,~かもしれない,~が好き
+  de: mögen
+  conjugation:
+    ich: mag
+    du: magst
+    er/sie/es: mag
+    wir: mögen
+    ihr: mögt
+    sie: mögen
+    Sie: mögen
+  highlight:
+    - ich
+    - du
+    - er/sie/es
+  examples:
+    - ja: "私はコーヒーを飲みたいです。"
+      de: "Ich möchte einen Kaffee trinken. "
+möchte:
+  ja: ~したい(丁寧)
+  de: möchte
+  memo:
+   ~したいという強い意志を持った動詞。
+   しばしば動詞が省略される。
+  conjugation:
+    ich: möchte
+    du: möchtest
+    er/sie/es: möchte
+    wir: möchten
+    ihr: möchtet
+    sie: möchten
+    Sie: möchten
+  highlight:
+    - ich
+    - er/sie/es
+    - ihr
+  examples:
+    - ja: "ビールを飲みたいです。"
+      de: "Ich möchte ein Bier *trinken*."
+    - ja: "ビールを飲みたいです。"
+      de: "Ich möchte ein Bier."
+    - ja: "何を飲みたいですか？"
+      de: "Was möchten Sie *trinen*?"
+    - ja: "何を飲みたいですか？"
+      de: "Was möchten Sie?"
+ausgehen:
+  ja: ~に出かける,外出する
+  de: aus/gehen
+  conjugation:
+    ich: gehe aus
+    du: gehst aus
+    er/sie/es: geht aus
+    wir: gehen aus
+    ihr: geht aus
+    sie: gehen aus
+    Sie: gehen aus
+  highlight:
+  examples:
+    - ja: "私は日曜日に出かけます。"
+      de: "Ich gehe am Sonntag aus."
+abfahren:
+  ja: 出発する
+  de: ab/fahren
+  conjugation:
+    ich: fahre ab
+    du: fährst ab
+    er/sie/es: fährt ab
+    wir: fahren ab
+    ihr: fahrt ab
+    sie: fahren ab
+    Sie: fahren ab
+  highlight:
+    - du
+    - er/sie/es
+  examples:
+    - ja: "もうすぐ私たちの列車が出発します。"
+      de: "Unser Zug fährt gleich ab."
+aufstehen:
+  ja: 起きる
+  de: auf/stehen
+  conjugation:
+    ich: stehe auf
+    du: stehst auf
+    er/sie/es: steht auf
+    wir: stehen auf
+    ihr: steht auf
+    sie: stehen auf
+    Sie: stehen auf
+  highlight:
+  examples:
+    - ja: "私は毎朝早く起きます。"
+      de: "Ich stehe morgens früh auf."
+aufräumen:
+  ja: 片付ける
+  de: auf/räumen
+  conjugation:
+    ich: räume auf
+    du: räumst auf
+    er/sie/es: räumt auf
+    wir: räumen auf
+    ihr: räumt auf
+    sie: räumen auf
+    Sie: räumen auf
+  highlight:
+  examples:
+    - ja: "部屋を片付けなければなりません。"
+      de: "Ich muss das Zimmer aufräumen."
+zurückkommen:
+  ja: 戻る
+  de: zurück/kommen
+  conjugation:
+    ich: komme zurück
+    du: kommst zurück
+    er/sie/es: kommt zurück
+    wir: kommen zurück
+    ihr: kommt zurück
+    sie: kommen zurück
+    Sie: kommen zurück
+  highlight:
+  examples:
+    - ja: "彼はいつ帰ってくるの？"
+      de: "Wann kokmmt er nach Hause zurück?"
+anrufen:
+  ja: 電話をかける
+  de: an/rufen
+  conjugation:
+    ich: rufe an
+    du: rufst an
+    er/sie/es: ruft an
+    wir: rufen an
+    ihr: ruft an
+    sie: rufen an
+    Sie: rufen an
+  highlight:
+  examples:
+    - ja: "今晩、私に電話してください。"
+      de: "rufen Sie mich heute Abend bitte an!"
+fernsehen:
+  ja: テレビを見る
+  de: fern/sehen
+  conjugation:
+    ich: sehe fern
+    du: siehst fern
+    er/sie/es: sieht fern
+    wir: sehen fern
+    ihr: seht fern
+    sie: sehen fern
+    Sie: sehen fern
+  highlight:
+    - du
+    - er/sie/es
+  examples:
+    - ja: "カーヤはほとんど毎晩テレビを見ます。"
+      de: "Katja sieht fast jeden Abend fern."
+teilnehmen:
+  ja: 参加する
+  de: teil/nehmen
+  conjugation:
+    ich: nehme teil
+    du: nimmst teil
+    er/sie/es: nimmt teil
+    wir: nehmen teil
+    ihr: nehmt teil
+    sie: nehmen teil
+    Sie: nehmen teil
+  highlight:
+    - du
+    - er/sie/es
+  examples:
+    - ja: "セミナーに参加しますか？"
+      de: "Nimmst du am Seminar teil?"
+mitkommen:
+  ja: 一緒に行く
+  de: mit/kommen
+  conjugation:
+    ich: komme mit
+    du: kommst mit
+    er/sie/es: kommt mit
+    wir: kommen mit
+    ihr: kommt mit
+    sie: kommen mit
+    Sie: kommen mit
+  highlight:
+  examples:
+    - ja: "一緒に来ますか？"
+      de: "Kommst du mit?"
+einkaufen:
+  ja: 買い物をする
+  de: ein/kaufen
+  conjugation:
+    ich: kaufe ein
+    du: kaufst ein
+    er/sie/es: kauft ein
+    wir: kaufen ein
+    ihr: kauft ein
+    sie: kaufen ein
+    Sie: kaufen ein
+  highlight:
+  examples:
+    - ja: "ティモはスーパーで買い物します。"
+      de: "Timo kaufe im Supermarkt ein."

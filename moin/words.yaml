@@ -1,0 +1,123 @@
+# 専攻
+subjects:
+  words:
+    - ja: 社会学
+      de: Soziologie
+    - ja: 歴史
+      de: Geschichte
+    - ja: エンジニアリング
+      de: Ingenieurwissenschaft
+    - ja: 心理学
+      de: Psychologie
+    - ja: 法学
+      de: Jura
+    - ja: 音楽学
+      de: Musikwissenschaft
+    - ja: 物理学
+      de: Physik
+    - ja: 生物学
+      de: Biologie
+    - ja: 地理学
+      de: Geografie
+    - ja: 化学
+      de: Chemie
+    - ja: 情報工学
+      de: Informatik
+    - ja: 文学
+      de: Literaturwissenschaft
+    - ja: 経営学
+      de: Betriebswirt-schaft (BWL)
+    - ja: デザイン
+      de: Design
+dayOfWeek:
+  words:
+    - ja: 月曜日
+      de: Montag
+    - ja: 火曜日
+      de: Dienstag
+    - ja: 水曜日 
+      de: Mittwoch
+    - ja: 木曜日
+      de: Donnerstag
+    - ja: 金曜日
+      de: Freitag
+    - ja: 土曜日
+      de: Samstag
+    - ja: 日曜日
+      de: Sonntag
+day:
+  words:
+    - ja: 朝
+      de: am Morgen / morgens
+    - ja: 午前
+      de: am Vormittag / vormittags
+    - ja: 昼
+      de: geben Mittag / mittags
+    - ja: 午後
+      de: am Nachmittag / nachmittags
+    - ja: 夕方
+      de: am Abend / abends
+    - ja: 夜
+      de: in der Nacht / nachts
+questions:
+  words:
+    - ja: いつ
+      de: Wann
+    - ja: どれくらい長く
+      de: Wie lange
+    - ja: いつからいつまで
+      de: Von wann bis wann
+    - ja: どこで
+      de: Wo
+    - ja: どこへ
+      de: Wohin
+    - ja: 何
+      de: Was
+    - ja: どのように
+      de: Wie
+    - ja: 誰が
+      de: Wer
+    - ja: だれと一緒に
+      de: Mit wem
+    - ja: 何について
+      de: Worüber
+foods:
+  words:  
+    - ja: ピザ
+      de: Pizza
+    - ja: ソーセージ
+      de: Wurst
+    - ja: チーズ
+      de: Käse
+    - de: Bubble Tea
+      ja: タピオカミルクティー
+    - de: Kaffee
+      ja: コーヒー
+    - de: Sushi
+      ja: 寿司
+    - de: Goya
+      ja: ゴーヤ
+    - de: Natto
+      ja: 納豆
+    - de: Ramen / Japanische Nudelsuppe
+      ja: ラーメン
+    - de: Sandwich
+      ja: サンドイッチ
+    - de: Schwarztee
+      ja: 紅茶
+    - de: Milch
+      ja: 牛乳
+    - de: Paprika
+      ja: ピーマン
+    - de: Brokkoli
+      ja: ブロッコリー
+    - de: Schokolade
+      ja: チョコレート
+    - de: Currywurst
+      ja: カレーヴルスト
+    - de: Spätzle
+      ja: シュペッツレ
+    - de: Sauerkraut
+      ja: ザワークラウト
+    - de: Milchreis
+      ja: ミルクライス
