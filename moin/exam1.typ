@@ -4,6 +4,7 @@
 #set page(paper: "presentation-4-3", margin: 2cm)
 
 #let verbs = yaml("verbs.yaml")
+
 #let invisibles = ()//("conjugation", "japanese")
 #let blank(content, key, width: 100%, height: auto) = {
   if key in invisibles {
