@@ -3,3 +3,5 @@ fonts/*
 !fonts/.gitkeep
 
 *.pdf
+
+.DS_Store
